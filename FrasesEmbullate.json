@@ -1,0 +1,2563 @@
+[
+  {
+    "id": 1,
+    "texto": "Si puedes soñarlo, puedes hacerlo.",
+    "autor": "Walt Disney",
+    "fecha": "2026-01-12",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 2,
+    "texto": "El fracaso es solo la oportunidad de comenzar de nuevo de forma inteligente.",
+    "autor": "Henry Ford",
+    "fecha": "2026-01-13",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 3,
+    "texto": "No cuentes los días, haz que los días cuenten.",
+    "autor": "Muhammad Ali",
+    "fecha": "2026-01-14",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 4,
+    "texto": "La mejor forma de predecir el futuro es creándolo.",
+    "autor": "Peter Drucker",
+    "fecha": "2026-01-15",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 5,
+    "texto": "Lo que no te mata, te hace más fuerte.",
+    "autor": "Friedrich Nietzsche",
+    "fecha": "2026-01-16",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 6,
+    "texto": "La disciplina es el puente entre metas y logros.",
+    "autor": "Jim Rohn",
+    "fecha": "2026-01-17",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 7,
+    "texto": "La vida es un 10% lo que me pasa y 90% cómo reacciono a ello.",
+    "autor": "Charles Swindoll",
+    "fecha": "2026-01-18",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 8,
+    "texto": "El único modo de hacer un gran trabajo es amar lo que haces.",
+    "autor": "Steve Jobs",
+    "fecha": "2026-01-19",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 9,
+    "texto": "No busques los errores, busca un remedio.",
+    "autor": "Henry Ford",
+    "fecha": "2026-01-20",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 10,
+    "texto": "Tu tiempo es limitado, no lo desperdicies viviendo la vida de otro.",
+    "autor": "Steve Jobs",
+    "fecha": "2026-01-21",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 11,
+    "texto": "Cree que puedes y casi habrás llegado.",
+    "autor": "Theodore Roosevelt",
+    "fecha": "2026-01-22",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 12,
+    "texto": "La felicidad no es algo hecho. Viene de tus propias acciones.",
+    "autor": "Dalai Lama",
+    "fecha": "2026-01-23",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 13,
+    "texto": "Todo lo que siempre has querido está al otro lado del miedo.",
+    "autor": "George Addair",
+    "fecha": "2026-01-24",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 14,
+    "texto": "Cáete siete veces y levántate ocho.",
+    "autor": "Proverbio Japonés",
+    "fecha": "2026-01-25",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 15,
+    "texto": "No importa qué tan lento vayas mientras no te detengas.",
+    "autor": "Confucio",
+    "fecha": "2026-01-26",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 16,
+    "texto": "La creatividad requiere tener el valor de desprenderse de las certezas.",
+    "autor": "Erich Fromm",
+    "fecha": "2026-01-27",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 17,
+    "texto": "La motivación es lo que te pone en marcha. El hábito es lo que hace que sigas.",
+    "autor": "Jim Ryun",
+    "fecha": "2026-01-28",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 18,
+    "texto": "Tu actitud, no tu aptitud, determinará tu altitud.",
+    "autor": "Zig Ziglar",
+    "fecha": "2026-01-29",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 19,
+    "texto": "El éxito es ir de fracaso en fracaso sin perder el entusiasmo.",
+    "autor": "Winston Churchill",
+    "fecha": "2026-01-30",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 20,
+    "texto": "El mañana pertenece a quienes se preparan hoy.",
+    "autor": "Malcolm X",
+    "fecha": "2026-01-31",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 21,
+    "texto": "No esperes. El momento nunca será el perfecto.",
+    "autor": "Napoleon Hill",
+    "fecha": "2026-02-01",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 22,
+    "texto": "La única discapacidad en la vida es una mala actitud.",
+    "autor": "Scott Hamilton",
+    "fecha": "2026-02-02",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 23,
+    "texto": "Haz de cada día tu obra maestra.",
+    "autor": "John Wooden",
+    "fecha": "2026-02-03",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 24,
+    "texto": "El éxito no es la clave de la felicidad. La felicidad es la clave del éxito.",
+    "autor": "Albert Schweitzer",
+    "fecha": "2026-02-04",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 25,
+    "texto": "Para ser irremplazable, uno siempre debe ser diferente.",
+    "autor": "Coco Chanel",
+    "fecha": "2026-02-05",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 26,
+    "texto": "No dejes que el ayer ocupe demasiado del hoy.",
+    "autor": "Will Rogers",
+    "fecha": "2026-02-06",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 27,
+    "texto": "Si no escalas la montaña jamás podrás disfrutar del paisaje.",
+    "autor": "Pablo Neruda",
+    "fecha": "2026-02-07",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 28,
+    "texto": "La esperanza es el sueño del hombre despierto.",
+    "autor": "Aristóteles",
+    "fecha": "2026-02-08",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 29,
+    "texto": "Un viaje de mil millas comienza con un primer paso.",
+    "autor": "Lao Tse",
+    "fecha": "2026-02-09",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 30,
+    "texto": "Lo que piensas, lo serás. Lo que sientas, lo atraerás.",
+    "autor": "Buda",
+    "fecha": "2026-02-10",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 31,
+    "texto": "Si quieres algo que nunca tuviste, debes hacer algo que nunca hiciste.",
+    "autor": "Thomas Jefferson",
+    "fecha": "2026-02-11",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 32,
+    "texto": "Tanto si piensas que puedes como si piensas que no puedes, estás en lo cierto.",
+    "autor": "Henry Ford",
+    "fecha": "2026-02-12",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 33,
+    "texto": "La paciencia es amarga, pero su fruto es dulce.",
+    "autor": "Jean-Jacques Rousseau",
+    "fecha": "2026-02-13",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 34,
+    "texto": "Amarse a uno mismo es el comienzo de un romance de por vida.",
+    "autor": "Oscar Wilde",
+    "fecha": "2026-02-14",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 35,
+    "texto": "Donde hay amor hay vida.",
+    "autor": "Mahatma Gandhi",
+    "fecha": "2026-02-15",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 36,
+    "texto": "El entusiasmo mueve el mundo.",
+    "autor": "Arthur Balfour",
+    "fecha": "2026-02-16",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 37,
+    "texto": "La vida es corta, vívela intensamente.",
+    "autor": "Anónimo",
+    "fecha": "2026-02-17",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 38,
+    "texto": "Prefiero morir de pasión que de aburrimiento.",
+    "autor": "Vincent van Gogh",
+    "fecha": "2026-02-18",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 39,
+    "texto": "A veces la última llave es la que abre la puerta.",
+    "autor": "Anónimo",
+    "fecha": "2026-02-19",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 40,
+    "texto": "Si el plan no funciona, cambia el plan, pero no cambies la meta.",
+    "autor": "Anónimo",
+    "fecha": "2026-02-20",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 41,
+    "texto": "La confianza en uno mismo es el primer secreto del éxito.",
+    "autor": "Ralph Waldo Emerson",
+    "fecha": "2026-02-21",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 42,
+    "texto": "La pregunta no es quién me va a dejar; es quién me va a detener.",
+    "autor": "Ayn Rand",
+    "fecha": "2026-02-22",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 43,
+    "texto": "El hombre que no tiene imaginación, no tiene alas.",
+    "autor": "Muhammad Ali",
+    "fecha": "2026-02-23",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 44,
+    "texto": "Siembra un pensamiento y cosecharás una acción.",
+    "autor": "Samuel Smiles",
+    "fecha": "2026-02-24",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 45,
+    "texto": "Incluso la noche más oscura terminará y el sol saldrá.",
+    "autor": "Victor Hugo",
+    "fecha": "2026-02-25",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 46,
+    "texto": "No somos producto de nuestras circunstancias, somos producto de nuestras decisiones.",
+    "autor": "Stephen Covey",
+    "fecha": "2026-02-26",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 47,
+    "texto": "El secreto de salir adelante es comenzar.",
+    "autor": "Mark Twain",
+    "fecha": "2026-02-27",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 48,
+    "texto": "La mejor manera de empezar es dejar de hablar y empezar a hacer.",
+    "autor": "Walt Disney",
+    "fecha": "2026-02-28",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 49,
+    "texto": "Tus sueños no tienen fecha de caducidad. Respira hondo y sigue.",
+    "autor": "Anónimo",
+    "fecha": "2026-03-01",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 50,
+    "texto": "Mira hacia atrás y sonríe ante los peligros pasados.",
+    "autor": "Walter Scott",
+    "fecha": "2026-03-02",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },  
+  {
+    "id": 51,
+    "texto": "La vida es lo que pasa mientras estás ocupado haciendo otros planes.",
+    "autor": "John Lennon",
+    "fecha": "2026-03-03",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 52,
+    "texto": "No dejes que el ruido de las opiniones ajenas silencie tu propia voz interior.",
+    "autor": "Steve Jobs",
+    "fecha": "2026-03-04",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 53,
+    "texto": "La lógica te llevará desde A hasta B. La imaginación te llevará a todas partes.",
+    "autor": "Albert Einstein",
+    "fecha": "2026-03-05",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo222222.jpg"
+  },
+  {
+    "id": 54,
+    "texto": "El éxito consiste en obtener lo que se desea. La felicidad en disfrutar lo que se obtiene.",
+    "autor": "Ralph Waldo Emerson",
+    "fecha": "2026-03-06",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 55,
+    "texto": "Aprende de ayer, vive para hoy, espera para mañana.",
+    "autor": "Albert Einstein",
+    "fecha": "2026-03-07",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 56,
+    "texto": "Sé el cambio que quieres ver en el mundo.",
+    "autor": "Mahatma Gandhi",
+    "fecha": "2026-03-08",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 57,
+    "texto": "Todo lo que puedes imaginar es real.",
+    "autor": "Pablo Picasso",
+    "fecha": "2026-03-09",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 58,
+    "texto": "No juzgues cada día por la cosecha que recoges, sino por las semillas que plantas.",
+    "autor": "Robert Louis Stevenson",
+    "fecha": "2026-03-10",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 59,
+    "texto": "Lo que hagas hoy puede mejorar todos tus mañanas.",
+    "autor": "Ralph Marston",
+    "fecha": "2026-03-11",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 60,
+    "texto": "La felicidad no es una meta; es un subproducto de una vida bien vivida.",
+    "autor": "Eleanor Roosevelt",
+    "fecha": "2026-03-12",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 61,
+    "texto": "Tu talento determina lo que puedes hacer. Tu motivación determina cuánto estás dispuesto a hacer.",
+    "autor": "Lou Holtz",
+    "fecha": "2026-03-13",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 62,
+    "texto": "Para ganar a lo grande, a veces hay que correr grandes riesgos.",
+    "autor": "Bill Gates",
+    "fecha": "2026-03-14",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 63,
+    "texto": "Las dificultades a menudo preparan a personas comunes para un destino extraordinario.",
+    "autor": "C.S. Lewis",
+    "fecha": "2026-03-15",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 64,
+    "texto": "Si no te gusta el camino que estás caminando, empieza a pavimentar otro.",
+    "autor": "Dolly Parton",
+    "fecha": "2026-03-16",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 65,
+    "texto": "El poder de la imaginación nos hace infinitos.",
+    "autor": "John Muir",
+    "fecha": "2026-03-17",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 66,
+    "texto": "La mayor gloria no es no caer nunca, sino levantarse cada vez que caemos.",
+    "autor": "Nelson Mandela",
+    "fecha": "2026-03-18",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 67,
+    "texto": "No se trata de si te derriban, se trata de si te levantas.",
+    "autor": "Vince Lombardi",
+    "fecha": "2026-03-19",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 68,
+    "texto": "El futuro pertenece a quienes creen en la belleza de sus sueños.",
+    "autor": "Eleanor Roosevelt",
+    "fecha": "2026-03-20",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 69,
+    "texto": "El éxito es la suma de pequeños esfuerzos repetidos día tras día.",
+    "autor": "Robert Collier",
+    "fecha": "2026-03-21",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 70,
+    "texto": "Convierte tus heridas en sabiduría.",
+    "autor": "Oprah Winfrey",
+    "fecha": "2026-03-22",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 71,
+    "texto": "No dejes que lo que no puedes hacer interfiera con lo que puedes hacer.",
+    "autor": "John Wooden",
+    "fecha": "2026-03-23",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 72,
+    "texto": "El secreto de tu futuro está escondido en tu rutina diaria.",
+    "autor": "Mike Murdock",
+    "fecha": "2026-03-24",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 73,
+    "texto": "Un objetivo sin un plan es solo un deseo.",
+    "autor": "Antoine de Saint-Exupéry",
+    "fecha": "2026-03-25",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 74,
+    "texto": "La excelencia no es un acto, sino un hábito.",
+    "autor": "Aristóteles",
+    "fecha": "2026-03-26",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 75,
+    "texto": "Si quieres volar, tienes que renunciar a las cosas que te pesan.",
+    "autor": "Toni Morrison",
+    "fecha": "2026-03-27",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 76,
+    "texto": "El fracaso es el condimento que da al éxito su sabor.",
+    "autor": "Truman Capote",
+    "fecha": "2026-03-28",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 77,
+    "texto": "El valor es la resistencia al miedo, el dominio del miedo, no la ausencia de miedo.",
+    "autor": "Mark Twain",
+    "fecha": "2026-03-29",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 78,
+    "texto": "No esperes a que las circunstancias sean ideales. Actúa y hazlas ideales.",
+    "autor": "Napoleon Hill",
+    "fecha": "2026-03-30",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 79,
+    "texto": "La persistencia es el camino del éxito.",
+    "autor": "Charles Chaplin",
+    "fecha": "2026-03-31",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 80,
+    "texto": "Cada día es una nueva oportunidad para ser mejor que ayer.",
+    "autor": "Anónimo",
+    "fecha": "2026-04-01",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 81,
+    "texto": "La disciplina es hacer lo que hay que hacer, incluso cuando no quieres hacerlo.",
+    "autor": "Anónimo",
+    "fecha": "2026-04-02",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 82,
+    "texto": "No limites tus desafíos, desafía tus límites.",
+    "autor": "Jerry Dunn",
+    "fecha": "2026-04-03",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 83,
+    "texto": "La felicidad es una dirección, no un lugar.",
+    "autor": "Sydney J. Harris",
+    "fecha": "2026-04-04",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 84,
+    "texto": "Si no diseñas tu propio plan de vida, lo más probable es que caigas en el plan de otra persona.",
+    "autor": "Jim Rohn",
+    "fecha": "2026-04-05",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 85,
+    "texto": "El hombre que mueve montañas empieza apartando piedrecitas.",
+    "autor": "Confucio",
+    "fecha": "2026-04-06",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 86,
+    "texto": "Solo aquellos que se arriesgan a ir demasiado lejos pueden descubrir hasta dónde se puede llegar.",
+    "autor": "T.S. Eliot",
+    "fecha": "2026-04-07",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 87,
+    "texto": "La vida se contrae o se expande en proporción al valor de uno.",
+    "autor": "Anaïs Nin",
+    "fecha": "2026-04-08",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 88,
+    "texto": "Todo lo que hemos de decidir es qué hacer con el tiempo que se nos ha dado.",
+    "autor": "J.R.R. Tolkien",
+    "fecha": "2026-04-09",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 89,
+    "texto": "La excelencia es el resultado gradual de siempre querer hacerlo mejor.",
+    "autor": "Pat Riley",
+    "fecha": "2026-04-10",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 90,
+    "texto": "A veces, cuando pierdes, ganas.",
+    "autor": "Dalai Lama",
+    "fecha": "2026-04-11",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 91,
+    "texto": "El secreto de la felicidad no es hacer lo que uno quiere, sino querer lo que uno hace.",
+    "autor": "James M. Barrie",
+    "fecha": "2026-04-12",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 92,
+    "texto": "Un día despertarás y no habrá más tiempo para hacer las cosas que siempre quisiste. Hazlas ahora.",
+    "autor": "Paulo Coelho",
+    "fecha": "2026-04-13",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 93,
+    "texto": "El éxito no es el final, el fracaso no es fatal: es el valor para continuar lo que cuenta.",
+    "autor": "Winston Churchill",
+    "fecha": "2026-04-14",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 94,
+    "texto": "Para llevar a cabo una acción positiva, debemos desarrollar aquí una visión positiva.",
+    "autor": "Dalai Lama",
+    "fecha": "2026-04-15",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 95,
+    "texto": "El pesimista ve dificultad en toda oportunidad. El optimista ve oportunidad en toda dificultad.",
+    "autor": "Winston Churchill",
+    "fecha": "2026-04-16",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 96,
+    "texto": "Donde no hay lucha, no hay fuerza.",
+    "autor": "Oprah Winfrey",
+    "fecha": "2026-04-17",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 97,
+    "texto": "No cuentes los días, haz que los días cuenten.",
+    "autor": "Muhammad Ali",
+    "fecha": "2026-04-18",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 98,
+    "texto": "Si quieres luz en tu vida, debes estar donde brilla el sol.",
+    "autor": "Guy Finley",
+    "fecha": "2026-04-19",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 99,
+    "texto": "Incluso si te caes de cara, sigues moviéndote hacia adelante.",
+    "autor": "Victor Kiam",
+    "fecha": "2026-04-20",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 100,
+    "texto": "Prefiero arrepentirme de las cosas que he hecho que de las que no he hecho.",
+    "autor": "Lucille Ball",
+    "fecha": "2026-04-21",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 101,
+    "texto": "La vida es un espejo y reflejará al pensador lo que este piense en él.",
+    "autor": "Ernest Holmes",
+    "fecha": "2026-04-22",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 102,
+    "texto": "El camino hacia el éxito siempre está en construcción.",
+    "autor": "Lily Tomlin",
+    "fecha": "2026-04-23",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 103,
+    "texto": "La vida no es encontrarse a uno mismo, sino crearse a uno mismo.",
+    "autor": "George Bernard Shaw",
+    "fecha": "2026-04-24",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 104,
+    "texto": "Tus sueños valen la pena el riesgo.",
+    "autor": "Anónimo",
+    "fecha": "2026-04-25",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 105,
+    "texto": "Vive como si fueras a morir mañana. Aprende como si fueras a vivir siempre.",
+    "autor": "Mahatma Gandhi",
+    "fecha": "2026-04-26",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 106,
+    "texto": "El éxito no es para los que creen que pueden, sino para los que no se cansan de intentarlo.",
+    "autor": "Anónimo",
+    "fecha": "2026-04-27",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 107,
+    "texto": "No hay sustituto para el trabajo duro.",
+    "autor": "Thomas Edison",
+    "fecha": "2026-04-28",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 108,
+    "texto": "El hombre que tiene confianza en sí mismo gana la confianza de los demás.",
+    "autor": "Hasidic Proverb",
+    "fecha": "2026-04-29",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 109,
+    "texto": "El coraje no siempre ruge. A veces es la pequeña voz al final del día que dice: lo intentaré de nuevo mañana.",
+    "autor": "Mary Anne Radmacher",
+    "fecha": "2026-04-30",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 110,
+    "texto": "La gratitud convierte lo que tenemos en suficiente.",
+    "autor": "Anónimo",
+    "fecha": "2026-05-01",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 111,
+    "texto": "Lo único que se interpone entre ti y tu sueño es la voluntad de intentarlo.",
+    "autor": "Joel Brown",
+    "fecha": "2026-05-02",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 112,
+    "texto": "No te detengas hasta que te sientas orgulloso.",
+    "autor": "Anónimo",
+    "fecha": "2026-05-03",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 113,
+    "texto": "La paciencia y la perseverancia tienen un efecto mágico ante el cual las dificultades desaparecen.",
+    "autor": "John Quincy Adams",
+    "fecha": "2026-05-04",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 114,
+    "texto": "La victoria es más dulce cuando has conocido la derrota.",
+    "autor": "Malcolm Forbes",
+    "fecha": "2026-05-05",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 115,
+    "texto": "Tus metas son más grandes que tus miedos.",
+    "autor": "Anónimo",
+    "fecha": "2026-05-06",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 116,
+    "texto": "El genio es un 1% de inspiración y un 99% de transpiración.",
+    "autor": "Thomas Edison",
+    "fecha": "2026-05-07",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 117,
+    "texto": "Para ser grande, primero tienes que estar dispuesto a parecer pequeño.",
+    "autor": "Anónimo",
+    "fecha": "2026-05-08",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 118,
+    "texto": "No puedes cruzar el mar simplemente parado y mirando el agua.",
+    "autor": "Rabindranath Tagore",
+    "fecha": "2026-05-09",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 119,
+    "texto": "La felicidad no es la ausencia de problemas, sino la capacidad de tratar con ellos.",
+    "autor": "Steve Maraboli",
+    "fecha": "2026-05-10",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 120,
+    "texto": "La mejor venganza es un éxito masivo.",
+    "autor": "Frank Sinatra",
+    "fecha": "2026-05-11",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 121,
+    "texto": "Cada logro comienza con la decisión de intentarlo.",
+    "autor": "Gail Devers",
+    "fecha": "2026-05-12",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 122,
+    "texto": "Si no hay viento, rema.",
+    "autor": "Proverbio Latín",
+    "fecha": "2026-05-13",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 123,
+    "texto": "El ayer es historia, el mañana es un misterio, el hoy es un regalo.",
+    "autor": "Eleanor Roosevelt",
+    "fecha": "2026-05-14",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 124,
+    "texto": "La vida es el arte de dibujar sin goma de borrar.",
+    "autor": "John W. Gardner",
+    "fecha": "2026-05-15",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 125,
+    "texto": "Lo que no se empieza hoy, nunca se termina mañana.",
+    "autor": "Johann Wolfgang von Goethe",
+    "fecha": "2026-05-16",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 126,
+    "texto": "Sé valiente. Incluso si no lo eres, finge serlo.",
+    "autor": "H. Jackson Brown Jr.",
+    "fecha": "2026-05-17",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 127,
+    "texto": "Si te ofrecen un asiento en un cohete, no preguntes qué asiento. ¡Solo súbete!",
+    "autor": "Sheryl Sandberg",
+    "fecha": "2026-05-18",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 128,
+    "texto": "El camino de mil millas comienza con un solo paso.",
+    "autor": "Lao Tse",
+    "fecha": "2026-05-19",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 129,
+    "texto": "Apunta a la luna. Si fallas, podrías dar a una estrella.",
+    "autor": "W. Clement Stone",
+    "fecha": "2026-05-20",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 130,
+    "texto": "No busques el éxito, busca ser valioso. Lo demás llegará solo.",
+    "autor": "Albert Einstein",
+    "fecha": "2026-05-21",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 131,
+    "texto": "El pensamiento positivo te permitirá hacer todo mejor que el pensamiento negativo.",
+    "autor": "Zig Ziglar",
+    "fecha": "2026-05-22",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 132,
+    "texto": "Cualquier cosa que decidas hacer, asegúrate de que te haga feliz.",
+    "autor": "Anónimo",
+    "fecha": "2026-05-23",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 133,
+    "texto": "La verdadera sabiduría está en reconocer la propia ignorancia.",
+    "autor": "Sócrates",
+    "fecha": "2026-05-24",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 134,
+    "texto": "No dejes que lo que pasó ayer te quite el sueño hoy.",
+    "autor": "Anónimo",
+    "fecha": "2026-05-25",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 135,
+    "texto": "La suerte es lo que sucede cuando la preparación se encuentra con la oportunidad.",
+    "autor": "Séneca",
+    "fecha": "2026-05-26",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 136,
+    "texto": "Tu vida no mejora por casualidad, mejora por el cambio.",
+    "autor": "Jim Rohn",
+    "fecha": "2026-05-27",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 137,
+    "texto": "Lo que no te mata te hace más fuerte.",
+    "autor": "Friedrich Nietzsche",
+    "fecha": "2026-05-28",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 138,
+    "texto": "Nunca es demasiado tarde para ser lo que podrías haber sido.",
+    "autor": "George Eliot",
+    "fecha": "2026-05-29",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 139,
+    "texto": "No mires el reloj; haz lo que él hace. Sigue adelante.",
+    "autor": "Sam Levenson",
+    "fecha": "2026-05-30",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 140,
+    "texto": "Quien tiene un porqué para vivir, puede soportar casi cualquier cómo.",
+    "autor": "Viktor Frankl",
+    "fecha": "2026-05-31",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 141,
+    "texto": "Bienvenido Junio. Que sea un mes de metas cumplidas.",
+    "autor": "Anónimo",
+    "fecha": "2026-06-01",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 142,
+    "texto": "La simplicidad es la máxima sofisticación.",
+    "autor": "Leonardo da Vinci",
+    "fecha": "2026-06-02",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 143,
+    "texto": "El que busca la verdad corre el riesgo de encontrarla.",
+    "autor": "Isabel Allende",
+    "fecha": "2026-06-03",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 144,
+    "texto": "Cualquier momento es bueno para empezar, pero el mejor es ahora.",
+    "autor": "Anónimo",
+    "fecha": "2026-06-04",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 145,
+    "texto": "La mayor aventura que puedes tener es vivir la vida de tus sueños.",
+    "autor": "Oprah Winfrey",
+    "fecha": "2026-06-05",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 146,
+    "texto": "No dejes que lo que no puedes hacer interfiera con lo que puedes hacer.",
+    "autor": "John Wooden",
+    "fecha": "2026-06-06",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 147,
+    "texto": "El éxito es caer siete veces y levantarse ocho.",
+    "autor": "Proverbio Japonés",
+    "fecha": "2026-06-07",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 148,
+    "texto": "Tu vida es tu mensaje para el mundo. Asegúrate de que sea inspirador.",
+    "autor": "Anónimo",
+    "fecha": "2026-06-08",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 149,
+    "texto": "La creatividad es la inteligencia divirtiéndose.",
+    "autor": "Albert Einstein",
+    "fecha": "2026-06-09",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 150,
+    "texto": "Sé tan bueno que no puedan ignorarte.",
+    "autor": "Steve Martin",
+    "fecha": "2026-06-10",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 151,
+    "texto": "Si no escalas la montaña, jamás podrás disfrutar del paisaje.",
+    "autor": "Pablo Neruda",
+    "fecha": "2026-06-11",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 152,
+    "texto": "La paz viene de adentro. No la busques afuera.",
+    "autor": "Buda",
+    "fecha": "2026-06-12",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 153,
+    "texto": "Un hombre con una nueva idea es un loco hasta que la idea triunfa.",
+    "autor": "Mark Twain",
+    "fecha": "2026-06-13",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 154,
+    "texto": "El fracaso es el éxito en progreso.",
+    "autor": "Albert Einstein",
+    "fecha": "2026-06-14",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 155,
+    "texto": "Si caminas solo, irás más rápido. Si caminas acompañado, llegarás más lejos.",
+    "autor": "Proverbio Africano",
+    "fecha": "2026-06-15",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 156,
+    "texto": "La inspiración existe, pero tiene que encontrarte trabajando.",
+    "autor": "Pablo Picasso",
+    "fecha": "2026-06-16",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 157,
+    "texto": "Todo lo que puedas imaginar es real.",
+    "autor": "Pablo Picasso",
+    "fecha": "2026-06-17",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 158,
+    "texto": "Lo que dejas atrás es lo que permite que el futuro crezca.",
+    "autor": "Anónimo",
+    "fecha": "2026-06-18",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 159,
+    "texto": "Incluso la noche más oscura terminará y el sol saldrá.",
+    "autor": "Victor Hugo",
+    "fecha": "2026-06-19",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 160,
+    "texto": "Tu vida no se mide por las veces que respiras, sino por los momentos que te dejan sin aliento.",
+    "autor": "George Carlin",
+    "fecha": "2026-06-20",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 161,
+    "texto": "Lo más difícil es la decisión de actuar, el resto es solo tenacidad.",
+    "autor": "Amelia Earhart",
+    "fecha": "2026-06-21",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 162,
+    "texto": "No esperes que el mundo cambie, cámbiate a ti mismo.",
+    "autor": "Gandhi",
+    "fecha": "2026-06-22",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 163,
+    "texto": "A veces la pregunta es la respuesta.",
+    "autor": "Anónimo",
+    "fecha": "2026-06-23",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 164,
+    "texto": "Si no te gusta dónde estás, muévete. No eres un árbol.",
+    "autor": "Jim Rohn",
+    "fecha": "2026-06-24",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 165,
+    "texto": "La oportunidad no llama a la puerta, se presenta cuando tú la derribas.",
+    "autor": "Kyle Chandler",
+    "fecha": "2026-06-25",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 166,
+    "texto": "La voluntad de ganar es importante, pero la voluntad de prepararse es vital.",
+    "autor": "Joe Paterno",
+    "fecha": "2026-06-26",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 167,
+    "texto": "Para que las cosas cambien, tú tienes que cambiar.",
+    "autor": "Jim Rohn",
+    "fecha": "2026-06-27",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 168,
+    "texto": "El que no está dispuesto a arriesgar lo inusual, tendrá que conformarse con lo ordinario.",
+    "autor": "Jim Rohn",
+    "fecha": "2026-06-28",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 169,
+    "texto": "No te compares con nadie más que contigo mismo.",
+    "autor": "Anónimo",
+    "fecha": "2026-06-29",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 170,
+    "texto": "La vida es una aventura audaz o no es nada.",
+    "autor": "Helen Keller",
+    "fecha": "2026-06-30",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 171,
+    "texto": "Acepta lo que es, deja ir lo que fue, ten fe en lo que será.",
+    "autor": "Anónimo",
+    "fecha": "2026-07-01",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 172,
+    "texto": "La felicidad no es algo que pospones para el futuro; es algo que diseñas para el presente.",
+    "autor": "Jim Rohn",
+    "fecha": "2026-07-02",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 173,
+    "texto": "No importa cuánto dure la tormenta, el sol siempre vuelve a brillar.",
+    "autor": "Khalil Gibran",
+    "fecha": "2026-07-03",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 174,
+    "texto": "Siembra amabilidad y cosecharás amor.",
+    "autor": "Anónimo",
+    "fecha": "2026-07-04",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 175,
+    "texto": "El conocimiento es poder, pero la acción es lo que trae resultados.",
+    "autor": "Anónimo",
+    "fecha": "2026-07-05",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 176,
+    "texto": "Tus límites están donde tú decidas ponerlos.",
+    "autor": "Anónimo",
+    "fecha": "2026-07-06",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 177,
+    "texto": "La disciplina es el puente entre las metas y los logros.",
+    "autor": "Jim Rohn",
+    "fecha": "2026-07-07",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 178,
+    "texto": "Lo que hagas hoy definirá tu mañana.",
+    "autor": "Anónimo",
+    "fecha": "2026-07-08",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 179,
+    "texto": "No cuentes las horas, haz que las horas cuenten.",
+    "autor": "Anónimo",
+    "fecha": "2026-07-09",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 180,
+    "texto": "La mejor forma de cerrar un ciclo es abriendo otro con más fuerza.",
+    "autor": "Anónimo",
+    "fecha": "2026-07-10",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 181,
+    "texto": "La persistencia es lo que hace que lo imposible sea posible.",
+    "autor": "Robert Half",
+    "fecha": "2026-07-11",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 182,
+    "texto": "No esperes el momento perfecto, toma el momento y hazlo perfecto.",
+    "autor": "Anónimo",
+    "fecha": "2026-07-12",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 183,
+    "texto": "El éxito es la capacidad de ir de fracaso en fracaso sin perder el entusiasmo.",
+    "autor": "Winston Churchill",
+    "fecha": "2026-07-13",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 184,
+    "texto": "Tus problemas no son obstáculos, son escalones hacia tu cima.",
+    "autor": "Anónimo",
+    "fecha": "2026-07-14",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 185,
+    "texto": "La mayor sabiduría es conocerse a uno mismo.",
+    "autor": "Galileo Galilei",
+    "fecha": "2026-07-15",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 186,
+    "texto": "El secreto para salir adelante es simplemente empezar.",
+    "autor": "Agatha Christie",
+    "fecha": "2026-07-16",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 187,
+    "texto": "Donde terminan tus fuerzas, comienza tu fe.",
+    "autor": "Anónimo",
+    "fecha": "2026-07-17",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 188,
+    "texto": "La vida no se trata de esperar a que pase la tormenta, sino de aprender a bailar bajo la lluvia.",
+    "autor": "Vivian Greene",
+    "fecha": "2026-07-18",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 189,
+    "texto": "Cada paso que das, por pequeño que sea, te acerca a tu meta.",
+    "autor": "Anónimo",
+    "fecha": "2026-07-19",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 190,
+    "texto": "Tu energía positiva es contagiosa. Úsala para iluminar el mundo.",
+    "autor": "Anónimo",
+    "fecha": "2026-07-20",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 191,
+    "texto": "No busques ser mejor que los demás, busca ser mejor que ayer.",
+    "autor": "Anónimo",
+    "fecha": "2026-07-21",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 192,
+    "texto": "El éxito no es para los que nunca fallan, sino para los que nunca se rinden.",
+    "autor": "Anónimo",
+    "fecha": "2026-07-22",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 193,
+    "texto": "La mente es como un paracaídas, solo funciona si se abre.",
+    "autor": "Frank Zappa",
+    "fecha": "2026-07-23",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 194,
+    "texto": "Si quieres un cambio verdadero, empieza por cambiar tus pensamientos.",
+    "autor": "Anónimo",
+    "fecha": "2026-07-24",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 195,
+    "texto": "A veces la mayor victoria es simplemente haberlo intentado.",
+    "autor": "Anónimo",
+    "fecha": "2026-07-25",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 196,
+    "texto": "Vive con intención. Camina con propósito.",
+    "autor": "Anónimo",
+    "fecha": "2026-07-26",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 197,
+    "texto": "El destino es lo que creas con tus decisiones diarias.",
+    "autor": "Anónimo",
+    "fecha": "2026-07-27",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 198,
+    "texto": "Nunca subestimes el poder de un pequeño acto de bondad.",
+    "autor": "Anónimo",
+    "fecha": "2026-07-28",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 199,
+    "texto": "El entusiasmo es la levadura que hace que tus esperanzas se eleven hasta las estrellas.",
+    "autor": "Henry Ford",
+    "fecha": "2026-07-29",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 200,
+    "texto": "Cree en ti mismo y serás imparable.",
+    "autor": "Anónimo",
+    "fecha": "2026-07-30",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 201,
+    "texto": "La aventura de la vida es aprender. El objetivo es crecer.",
+    "autor": "William Arthur Ward",
+    "fecha": "2026-07-31",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 202,
+    "texto": "Bienvenido Agosto. Un mes para brillar con luz propia.",
+    "autor": "Anónimo",
+    "fecha": "2026-08-01",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 203,
+    "texto": "La gratitud abre la puerta a la abundancia.",
+    "autor": "Anónimo",
+    "fecha": "2026-08-02",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 204,
+    "texto": "Cada día tiene su propio afán y su propia magia. Descúbrela.",
+    "autor": "Anónimo",
+    "fecha": "2026-08-03",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 205,
+    "texto": "El mayor riesgo es no correr ningún riesgo.",
+    "autor": "Mark Zuckerberg",
+    "fecha": "2026-08-04",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 206,
+    "texto": "No dejes que el miedo decida tu futuro.",
+    "autor": "Anónimo",
+    "fecha": "2026-08-05",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 207,
+    "texto": "La excelencia no es un destino, es un viaje continuo.",
+    "autor": "Anónimo",
+    "fecha": "2026-08-06",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 208,
+    "texto": "El éxito es amar la vida y vivirla con alegría.",
+    "autor": "Anónimo",
+    "fecha": "2026-08-07",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 209,
+    "texto": "La persistencia vence a la resistencia.",
+    "autor": "Anónimo",
+    "fecha": "2026-08-08",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 210,
+    "texto": "Sé la mejor versión de ti mismo cada día.",
+    "autor": "Anónimo",
+    "fecha": "2026-08-09",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 211,
+    "texto": "El mañana es el lienzo donde pintarás tus nuevos éxitos.",
+    "autor": "Anónimo",
+    "fecha": "2026-08-10",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 212,
+    "texto": "La disciplina es el ingrediente que convierte los sueños en realidad.",
+    "autor": "Anónimo",
+    "fecha": "2026-08-11",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 213,
+    "texto": "No esperes que las cosas cambien si siempre haces lo mismo.",
+    "autor": "Albert Einstein",
+    "fecha": "2026-08-12",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 214,
+    "texto": "La confianza en uno mismo es el primer peldaño hacia el éxito.",
+    "autor": "Ralph Waldo Emerson",
+    "fecha": "2026-08-13",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 215,
+    "texto": "Tus acciones de hoy son las semillas de tus resultados de mañana.",
+    "autor": "Anónimo",
+    "fecha": "2026-08-14",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 216,
+    "texto": "El éxito no se encuentra, se crea con cada decisión.",
+    "autor": "Anónimo",
+    "fecha": "2026-08-15",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 217,
+    "texto": "A veces, la clave es simplemente no rendirse cuando todos los demás lo hacen.",
+    "autor": "Anónimo",
+    "fecha": "2026-08-16",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 218,
+    "texto": "El único límite para tus logros de mañana son tus dudas de hoy.",
+    "autor": "Franklin D. Roosevelt",
+    "fecha": "2026-08-17",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 219,
+    "texto": "Haz lo que puedas, con lo que tengas, donde estés.",
+    "autor": "Theodore Roosevelt",
+    "fecha": "2026-08-18",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 220,
+    "texto": "La felicidad es un estado mental, no una cuenta bancaria.",
+    "autor": "Anónimo",
+    "fecha": "2026-08-19",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 221,
+    "texto": "Aprende como si fueras a vivir para siempre, vive como si fueras a morir hoy.",
+    "autor": "Mahatma Gandhi",
+    "fecha": "2026-08-20",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 222,
+    "texto": "Si quieres llegar rápido, camina solo. Si quieres llegar lejos, camina acompañado.",
+    "autor": "Proverbio Africano",
+    "fecha": "2026-08-21",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 223,
+    "texto": "No busques los errores del pasado, busca las lecciones que te dejaron.",
+    "autor": "Anónimo",
+    "fecha": "2026-08-22",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 224,
+    "texto": "La paciencia es la madre de todas las ciencias y de todos los éxitos.",
+    "autor": "Anónimo",
+    "fecha": "2026-08-23",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 225,
+    "texto": "La creatividad es ver lo que todo el mundo ha visto y pensar lo que nadie ha pensado.",
+    "autor": "Albert Szent-Györgyi",
+    "fecha": "2026-08-24",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 226,
+    "texto": "Cada caída es una oportunidad para aprender a levantarse con más gracia.",
+    "autor": "Anónimo",
+    "fecha": "2026-08-25",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 227,
+    "texto": "El coraje es lo que se necesita para levantarse y hablar, pero también para sentarse y escuchar.",
+    "autor": "Winston Churchill",
+    "fecha": "2026-08-26",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 228,
+    "texto": "Tu futuro es creado por lo que haces hoy, no mañana.",
+    "autor": "Robert Kiyosaki",
+    "fecha": "2026-08-27",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 229,
+    "texto": "La sonrisa es el idioma universal de los hombres inteligentes.",
+    "autor": "Anónimo",
+    "fecha": "2026-08-28",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 230,
+    "texto": "No te compares con los demás, compárate con la persona que eras ayer.",
+    "autor": "Jordan Peterson",
+    "fecha": "2026-08-29",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 231,
+    "texto": "El éxito no es la base de la felicidad, la felicidad es la base del éxito.",
+    "autor": "Albert Schweitzer",
+    "fecha": "2026-08-30",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 232,
+    "texto": "Cierra agosto con gratitud y abre septiembre con determinación.",
+    "autor": "Anónimo",
+    "fecha": "2026-08-31",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 233,
+    "texto": "Septiembre: un nuevo mes para renovar tus fuerzas y perseguir tus sueños.",
+    "autor": "Anónimo",
+    "fecha": "2026-09-01",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 234,
+    "texto": "La verdadera oportunidad de éxito reside en la persona, no en el puesto de trabajo.",
+    "autor": "Zig Ziglar",
+    "fecha": "2026-09-02",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 235,
+    "texto": "La grandeza no consiste en no caer nunca, sino en levantarse siempre.",
+    "autor": "Confucio",
+    "fecha": "2026-09-03",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 236,
+    "texto": "Cree en lo que eres y todo lo que puedes llegar a ser.",
+    "autor": "Anónimo",
+    "fecha": "2026-09-04",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 237,
+    "texto": "La perseverancia puede transformar el fracaso en un logro extraordinario.",
+    "autor": "Matt Biondi",
+    "fecha": "2026-09-05",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 238,
+    "texto": "No cuentes los minutos, haz que cada minuto sea inolvidable.",
+    "autor": "Anónimo",
+    "fecha": "2026-09-06",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 239,
+    "texto": "La inteligencia sin ambición es como un pájaro sin alas.",
+    "autor": "Salvador Dalí",
+    "fecha": "2026-09-07",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 240,
+    "texto": "Apunta alto, porque las estrellas están escondidas en tu alma.",
+    "autor": "Pamela Vaull Starr",
+    "fecha": "2026-09-08",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 241,
+    "texto": "Tus pensamientos moldean tu realidad. Elige los mejores.",
+    "autor": "Anónimo",
+    "fecha": "2026-09-09",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 242,
+    "texto": "El secreto para vivir una vida plena es dar sin esperar nada a cambio.",
+    "autor": "Anónimo",
+    "fecha": "2026-09-10",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 243,
+    "texto": "La mayor parte de nuestra felicidad o miseria depende de nuestra disposición y no de nuestras circunstancias.",
+    "autor": "Martha Washington",
+    "fecha": "2026-09-11",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 244,
+    "texto": "No busques el éxito, busca la excelencia y el éxito te encontrará.",
+    "autor": "Anónimo",
+    "fecha": "2026-09-12",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 245,
+    "texto": "La vida es una aventura que se atreve a ser vivida.",
+    "autor": "Teresa de Calcuta",
+    "fecha": "2026-09-13",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 246,
+    "texto": "El optimismo es la fe que conduce al logro.",
+    "autor": "Helen Keller",
+    "fecha": "2026-09-14",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 247,
+    "texto": "Nunca es tarde para convertirte en la persona que quieres ser.",
+    "autor": "Anónimo",
+    "fecha": "2026-09-15",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 248,
+    "texto": "La gratitud es la memoria del corazón.",
+    "autor": "Lao Tse",
+    "fecha": "2026-09-16",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 249,
+    "texto": "A veces hay que pasar por lo peor para llegar a lo mejor.",
+    "autor": "Anónimo",
+    "fecha": "2026-09-17",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 250,
+    "texto": "La diferencia entre lo imposible y lo posible reside en la determinación de una persona.",
+    "autor": "Tommy Lasorda",
+    "fecha": "2026-09-18",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 251,
+    "texto": "El éxito no es el resultado de una combustión espontánea; debes encenderte tú mismo.",
+    "autor": "Arnold Glasow",
+    "fecha": "2026-09-19",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 252,
+    "texto": "El único lugar donde el éxito viene antes que el trabajo es en el diccionario.",
+    "autor": "Vidal Sassoon",
+    "fecha": "2026-09-20",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 253,
+    "texto": "No dejes que tus miedos ocupen el lugar de tus sueños.",
+    "autor": "Anónimo",
+    "fecha": "2026-09-21",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 254,
+    "texto": "Si quieres cambiar el mundo, cámbiate a ti mismo primero.",
+    "autor": "Sócrates",
+    "fecha": "2026-09-22",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 255,
+    "texto": "La mejor forma de empezar es dejar de hablar y empezar a hacer.",
+    "autor": "Walt Disney",
+    "fecha": "2026-09-23",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 256,
+    "texto": "La vida es corta, sonríe mientras todavía tengas dientes.",
+    "autor": "Anónimo",
+    "fecha": "2026-09-24",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 257,
+    "texto": "La persistencia garantiza que los resultados sean inevitables.",
+    "autor": "Paramahansa Yogananda",
+    "fecha": "2026-09-25",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 258,
+    "texto": "Tu energía es tu moneda más valiosa, gástala con sabiduría.",
+    "autor": "Anónimo",
+    "fecha": "2026-09-26",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 259,
+    "texto": "A veces se gana y otras se aprende.",
+    "autor": "Robert Kiyosaki",
+    "fecha": "2026-09-27",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 260,
+    "texto": "Haz de hoy un día para recordar.",
+    "autor": "Anónimo",
+    "fecha": "2026-09-28",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 261,
+    "texto": "El futuro pertenece a quienes creen en la belleza de sus sueños.",
+    "autor": "Eleanor Roosevelt",
+    "fecha": "2026-09-29",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 262,
+    "texto": "Despídete de septiembre con orgullo y recibe octubre con esperanza.",
+    "autor": "Anónimo",
+    "fecha": "2026-09-30",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 263,
+    "texto": "Octubre: un mes para cosechar lo que con esfuerzo sembraste.",
+    "autor": "Anónimo",
+    "fecha": "2026-10-01",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 264,
+    "texto": "La paciencia es la clave que abre todas las puertas.",
+    "autor": "Anónimo",
+    "fecha": "2026-10-02",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 265,
+    "texto": "No esperes a que la oportunidad llame a tu puerta; constrúyela.",
+    "autor": "Anónimo",
+    "fecha": "2026-10-03",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 266,
+    "texto": "El secreto de la felicidad es la libertad, y el secreto de la libertad es el coraje.",
+    "autor": "Tucídides",
+    "fecha": "2026-10-04",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 267,
+    "texto": "La verdadera alegría nace de la superación de uno mismo.",
+    "autor": "Anónimo",
+    "fecha": "2026-10-05",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 268,
+    "texto": "La disciplina es el puente entre las metas y los logros.",
+    "autor": "Jim Rohn",
+    "fecha": "2026-10-06",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 269,
+    "texto": "El éxito es amar lo que haces y cómo lo haces.",
+    "autor": "Anónimo",
+    "fecha": "2026-10-07",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 270,
+    "texto": "Tus sueños no tienen fecha de vencimiento. Sigue intentándolo.",
+    "autor": "Anónimo",
+    "fecha": "2026-10-08",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 271,
+    "texto": "La vida es el lienzo y tú eres el artista; pinta algo hermoso hoy.",
+    "autor": "Anónimo",
+    "fecha": "2026-10-09",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 272,
+    "texto": "No permitas que las sombras del ayer oscurezcan el sol de hoy.",
+    "autor": "Anónimo",
+    "fecha": "2026-10-10",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 273,
+    "texto": "Cada pequeño paso te acerca más a tu gran victoria.",
+    "autor": "Anónimo",
+    "fecha": "2026-10-11",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 274,
+    "texto": "La verdadera medida del éxito es cuántas veces te has levantado después de caer.",
+    "autor": "Anónimo",
+    "fecha": "2026-10-12",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 275,
+    "texto": "No esperes a que las condiciones sean perfectas para empezar; el inicio hace las condiciones.",
+    "autor": "Anónimo",
+    "fecha": "2026-10-13",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 276,
+    "texto": "La actitud es una pequeña cosa que hace una gran diferencia.",
+    "autor": "Winston Churchill",
+    "fecha": "2026-10-14",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 277,
+    "texto": "El éxito es un viaje, no un destino. Disfruta del camino.",
+    "autor": "Arthur Ashe",
+    "fecha": "2026-10-15",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 278,
+    "texto": "Si quieres vivir una vida feliz, átala a una meta, no a personas o cosas.",
+    "autor": "Albert Einstein",
+    "fecha": "2026-10-16",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 279,
+    "texto": "Tu talento es el regalo de Dios para ti. Lo que hagas con él es tu regalo para Dios.",
+    "autor": "Leo Buscaglia",
+    "fecha": "2026-10-17",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 280,
+    "texto": "El coraje es la gracia bajo presión.",
+    "autor": "Ernest Hemingway",
+    "fecha": "2026-10-18",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 281,
+    "texto": "La vida es 10% lo que experimentas y 90% cómo respondes a ello.",
+    "autor": "Dorothy M. Neddermeyer",
+    "fecha": "2026-10-19",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 282,
+    "texto": "Cree en el poder de tus sueños, incluso cuando el mundo te diga lo contrario.",
+    "autor": "Anónimo",
+    "fecha": "2026-10-20",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 283,
+    "texto": "La gratitud no solo es la más grande de las virtudes, sino la madre de todas las demás.",
+    "autor": "Cicerón",
+    "fecha": "2026-10-21",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 284,
+    "texto": "El éxito no es la clave de la felicidad; la felicidad es la clave del éxito.",
+    "autor": "Herman Cain",
+    "fecha": "2026-10-22",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 285,
+    "texto": "No te preocupes por los fracasos, preocúpate por las oportunidades que pierdes al no intentarlo.",
+    "autor": "Jack Canfield",
+    "fecha": "2026-10-23",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 286,
+    "texto": "Haz hoy lo que otros no harán, para que mañana puedas hacer lo que otros no podrán.",
+    "autor": "Jerry Rice",
+    "fecha": "2026-10-24",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 287,
+    "texto": "El aprendizaje es un tesoro que seguirá a su dueño a todas partes.",
+    "autor": "Proverbio Chino",
+    "fecha": "2026-10-25",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 288,
+    "texto": "La simplicidad es la clave de la verdadera elegancia.",
+    "autor": "Coco Chanel",
+    "fecha": "2026-10-26",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 289,
+    "texto": "Cada amanecer trae una nueva oportunidad para ser mejor de lo que fuiste ayer.",
+    "autor": "Anónimo",
+    "fecha": "2026-10-27",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 290,
+    "texto": "Tus límites están solo en tu mente; rómpelos y vuela.",
+    "autor": "Anónimo",
+    "fecha": "2026-10-28",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 291,
+    "texto": "La persistencia y la determinación son omnipotentes.",
+    "autor": "Calvin Coolidge",
+    "fecha": "2026-10-29",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 292,
+    "texto": "El éxito llega a quienes están demasiado ocupados para buscarlo.",
+    "autor": "Henry David Thoreau",
+    "fecha": "2026-10-30",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 293,
+    "texto": "Despide octubre con agradecimiento por las lecciones aprendidas.",
+    "autor": "Anónimo",
+    "fecha": "2026-10-31",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 294,
+    "texto": "Bienvenido Noviembre. Un mes para enfocarse en lo que realmente importa.",
+    "autor": "Anónimo",
+    "fecha": "2026-11-01",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 295,
+    "texto": "La esperanza es el ancla del alma.",
+    "autor": "Hebreos 6:19",
+    "fecha": "2026-11-02",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 296,
+    "texto": "El éxito no es definitivo, el fracaso no es fatal: lo que cuenta es el valor para continuar.",
+    "autor": "Winston Churchill",
+    "fecha": "2026-11-03",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 297,
+    "texto": "La única forma de hacer un gran trabajo es amar lo que haces.",
+    "autor": "Steve Jobs",
+    "fecha": "2026-11-04",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 298,
+    "texto": "La vida es corta, vívela con pasión y propósito.",
+    "autor": "Anónimo",
+    "fecha": "2026-11-05",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 299,
+    "texto": "La amabilidad es un lenguaje que el sordo puede oír y el ciego puede ver.",
+    "autor": "Mark Twain",
+    "fecha": "2026-11-06",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 300,
+    "texto": "El conocimiento es poder, pero la sabiduría es saber cuándo usarlo.",
+    "autor": "Anónimo",
+    "fecha": "2026-11-07",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 301,
+    "texto": "No dejes que el miedo a perder sea mayor que la emoción de ganar.",
+    "autor": "Robert Kiyosaki",
+    "fecha": "2026-11-08",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 302,
+    "texto": "La confianza en uno mismo es el secreto mejor guardado del éxito.",
+    "autor": "Anónimo",
+    "fecha": "2026-11-09",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 303,
+    "texto": "Tus sueños son el mapa de tu destino; síguelos con fe.",
+    "autor": "Anónimo",
+    "fecha": "2026-11-10",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 304,
+    "texto": "Cada día es una nueva página en el libro de tu vida; escribe una buena historia.",
+    "autor": "Anónimo",
+    "fecha": "2026-11-11",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 305,
+    "texto": "La paciencia no es la espera pasiva, es la aceptación activa del proceso.",
+    "autor": "Anónimo",
+    "fecha": "2026-11-12",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 306,
+    "texto": "No cuentes los días, haz que los días cuenten.",
+    "autor": "Muhammad Ali",
+    "fecha": "2026-11-13",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 307,
+    "texto": "La verdadera generosidad hacia el futuro consiste en entregarlo todo al presente.",
+    "autor": "Albert Camus",
+    "fecha": "2026-11-14",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 308,
+    "texto": "El éxito es la suma de pequeños esfuerzos repetidos día tras día.",
+    "autor": "Robert Collier",
+    "fecha": "2026-11-15",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 309,
+    "texto": "La gratitud convierte lo que tenemos en suficiente.",
+    "autor": "Anónimo",
+    "fecha": "2026-11-16",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 310,
+    "texto": "Para ser grande, hay que empezar por ser pequeño.",
+    "autor": "Anónimo",
+    "fecha": "2026-11-17",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 311,
+    "texto": "Tu mente es un jardín, tus pensamientos son las semillas.",
+    "autor": "Anónimo",
+    "fecha": "2026-11-18",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 312,
+    "texto": "La esperanza es el sueño del hombre despierto.",
+    "autor": "Aristóteles",
+    "fecha": "2026-11-19",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 313,
+    "texto": "Incluso en el invierno más crudo, hay dentro de ti un verano invencible.",
+    "autor": "Albert Camus",
+    "fecha": "2026-11-20",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 314,
+    "texto": "El éxito no es el final, el fracaso no es la ruina; es el valor de seguir adelante.",
+    "autor": "Winston Churchill",
+    "fecha": "2026-11-21",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 315,
+    "texto": "La vida es una aventura, atrévete a vivirla con entusiasmo.",
+    "autor": "Anónimo",
+    "fecha": "2026-11-22",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 316,
+    "texto": "La amabilidad es la luz que ilumina el camino de los demás.",
+    "autor": "Anónimo",
+    "fecha": "2026-11-23",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 317,
+    "texto": "Si no hay lucha, no hay progreso.",
+    "autor": "Frederick Douglass",
+    "fecha": "2026-11-24",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 318,
+    "texto": "La persistencia es el camino del éxito.",
+    "autor": "Charles Chaplin",
+    "fecha": "2026-11-25",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 319,
+    "texto": "Da gracias por lo que tienes y terminarás teniendo más.",
+    "autor": "Oprah Winfrey",
+    "fecha": "2026-11-26",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 320,
+    "texto": "El pensamiento positivo te permitirá hacer todo mejor.",
+    "autor": "Zig Ziglar",
+    "fecha": "2026-11-27",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 321,
+    "texto": "La verdadera sabiduría consiste en saber que no sabemos nada.",
+    "autor": "Sócrates",
+    "fecha": "2026-11-28",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 322,
+    "texto": "No esperes el cambio, sé el cambio.",
+    "autor": "Anónimo",
+    "fecha": "2026-11-29",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 323,
+    "texto": "Finaliza noviembre con la frente en alto y metas claras.",
+    "autor": "Anónimo",
+    "fecha": "2026-11-30",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 324,
+    "texto": "Diciembre: mes de reflexión, gratitud y nuevos propósitos.",
+    "autor": "Anónimo",
+    "fecha": "2026-12-01",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 325,
+    "texto": "La felicidad no es un destino, es una forma de viajar.",
+    "autor": "Anónimo",
+    "fecha": "2026-12-02",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 326,
+    "texto": "A veces, el mayor logro es simplemente levantarse y seguir adelante.",
+    "autor": "Anónimo",
+    "fecha": "2026-12-03",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 327,
+    "texto": "La disciplina es el puente entre tus sueños y la realidad.",
+    "autor": "Jim Rohn",
+    "fecha": "2026-12-04",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 328,
+    "texto": "La paciencia y el tiempo hacen más que la fuerza y la pasión.",
+    "autor": "Jean de La Fontaine",
+    "fecha": "2026-12-05",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 329,
+    "texto": "Tu futuro depende de lo que hagas hoy.",
+    "autor": "Mahatma Gandhi",
+    "fecha": "2026-12-06",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 330,
+    "texto": "Aprovecha cada segundo, porque el tiempo no vuelve atrás.",
+    "autor": "Anónimo",
+    "fecha": "2026-12-07",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 331,
+    "texto": "La paz interior empieza en el momento en que decides no permitir que otros controlen tus emociones.",
+    "autor": "Anónimo",
+    "fecha": "2026-12-08",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 332,
+    "texto": "No importa cuán lento vayas, siempre y cuando no te detengas.",
+    "autor": "Confucio",
+    "fecha": "2026-12-09",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 333,
+    "texto": "Cree en ti mismo y todo será posible.",
+    "autor": "Anónimo",
+    "fecha": "2026-12-10",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 334,
+    "texto": "La amabilidad es la forma más sencilla de dejar una huella en el mundo.",
+    "autor": "Anónimo",
+    "fecha": "2026-12-11",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 335,
+    "texto": "Tus sueños valen el esfuerzo que les dedicas.",
+    "autor": "Anónimo",
+    "fecha": "2026-12-12",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 336,
+    "texto": "La verdadera alegría se encuentra en las pequeñas cosas de la vida.",
+    "autor": "Anónimo",
+    "fecha": "2026-12-13",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 337,
+    "texto": "El coraje no es la ausencia de miedo, sino el triunfo sobre él.",
+    "autor": "Nelson Mandela",
+    "fecha": "2026-12-14",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 338,
+    "texto": "Haz de tu vida un sueño y de tu sueño una realidad.",
+    "autor": "Antoine de Saint-Exupéry",
+    "fecha": "2026-12-15",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 339,
+    "texto": "Sé la luz en la oscuridad de alguien hoy.",
+    "autor": "Anónimo",
+    "fecha": "2026-12-16",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 340,
+    "texto": "La persistencia vence cualquier obstáculo.",
+    "autor": "Anónimo",
+    "fecha": "2026-12-17",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 341,
+    "texto": "Siembra pensamientos positivos y cosecharás una vida feliz.",
+    "autor": "Anónimo",
+    "fecha": "2026-12-18",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 342,
+    "texto": "No permitas que nadie apague tu brillo.",
+    "autor": "Anónimo",
+    "fecha": "2026-12-19",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 343,
+    "texto": "La vida es un eco; lo que envías, vuelve.",
+    "autor": "Anónimo",
+    "fecha": "2026-12-20",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 344,
+    "texto": "El éxito es vivir según tus propios términos.",
+    "autor": "Anónimo",
+    "fecha": "2026-12-21",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 345,
+    "texto": "La gratitud abre puertas que la queja cierra.",
+    "autor": "Anónimo",
+    "fecha": "2026-12-22",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 346,
+    "texto": "Sé valiente, sé libre, sé tú mismo.",
+    "autor": "Anónimo",
+    "fecha": "2026-12-23",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 347,
+    "texto": "La Navidad no es un momento, es un sentimiento.",
+    "autor": "Edna Ferber",
+    "fecha": "2026-12-24",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 348,
+    "texto": "Que el amor y la paz llenen tu hogar hoy y siempre.",
+    "autor": "Anónimo",
+    "fecha": "2026-12-25",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 349,
+    "texto": "Reflexiona sobre lo aprendido y prepárate para lo nuevo.",
+    "autor": "Anónimo",
+    "fecha": "2026-12-26",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 350,
+    "texto": "El fin de un ciclo es la oportunidad de un nuevo comienzo.",
+    "autor": "Anónimo",
+    "fecha": "2026-12-27",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 351,
+    "texto": "La constancia es el secreto de todos los triunfos.",
+    "autor": "Anónimo",
+    "fecha": "2026-12-28",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 352,
+    "texto": "Agradece cada experiencia del año que termina.",
+    "autor": "Anónimo",
+    "fecha": "2026-12-29",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 353,
+    "texto": "El futuro pertenece a quienes creen en la belleza de sus sueños.",
+    "autor": "Eleanor Roosevelt",
+    "fecha": "2026-12-30",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 354,
+    "texto": "Prepárate para recibir el nuevo año con esperanza y alegría.",
+    "autor": "Anónimo",
+    "fecha": "2026-12-31",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 355,
+    "texto": "Año nuevo, vida nueva. Hoy es la primera página en blanco de un libro de 365 hojas.",
+    "autor": "Anónimo",
+    "fecha": "2027-01-01",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 356,
+    "texto": "La magia de los nuevos comienzos es el regalo más grande de todos.",
+    "autor": "Anónimo",
+    "fecha": "2027-01-02",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 357,
+    "texto": "No intentes ser mejor que los demás, intenta ser mejor de lo que eras ayer.",
+    "autor": "Anónimo",
+    "fecha": "2027-01-03",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 358,
+    "texto": "La disciplina es el puente entre tus metas y tus logros.",
+    "autor": "Jim Rohn",
+    "fecha": "2027-01-04",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 359,
+    "texto": "El éxito no es para los que creen que pueden, sino para los que no se cansan de intentar.",
+    "autor": "Anónimo",
+    "fecha": "2027-01-05",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 360,
+    "texto": "Que la ilusión de este día te acompañe durante todo el año.",
+    "autor": "Anónimo",
+    "fecha": "2027-01-06",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 361,
+    "texto": "La persistencia es lo que separa lo imposible de lo posible.",
+    "autor": "Anónimo",
+    "fecha": "2027-01-07",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 362,
+    "texto": "Tu actitud determina tu dirección.",
+    "autor": "Anónimo",
+    "fecha": "2027-01-08",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 363,
+    "texto": "La felicidad no es algo que encuentras, es algo que creas.",
+    "autor": "Anónimo",
+    "fecha": "2027-01-09",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 364,
+    "texto": "Cree en ti mismo y el resto vendrá solo.",
+    "autor": "Anónimo",
+    "fecha": "2027-01-10",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  },
+  {
+    "id": 365,
+    "texto": "Cada día es una nueva oportunidad para brillar.",
+    "autor": "Anónimo",
+    "fecha": "2027-01-11",
+    "imagenUrl": "https://raw.githubusercontent.com/eddyklk/ApiEmbullateFrases/main/Fondo.jpg"
+  }
+]
+
+
+
+
+
+
